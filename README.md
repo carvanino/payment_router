@@ -131,7 +131,7 @@ PaymentRouter::registerProcessor(new CustomProcessor());
 
 ## Demo Application
 
-Check out our [demo application](https://github.com/yourusername/payment-router-demo) for a complete implementation example.
+Check out our [demo application](https://github.com/carvanino/payment-routes-test) for a complete implementation example.
 
 ## Security
 
